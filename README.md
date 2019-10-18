@@ -9,3 +9,8 @@ This extruder is part of the Lily boxed delta printer design and was initially d
 It could be used for any printer and so is released independantly
 
 <img src="Photos/Extruder_on_antivib_P1050488.jpg" width="320">
+
+To install OpenSCAD applications and models, see http://rouzeau.net/Print3D/OpenSCADApplications
+
+Pour installer les applications et modèles OpenSCAD, voir  http://rouzeau.net/OpenSCAD/Applications
+
