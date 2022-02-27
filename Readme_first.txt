@@ -13,6 +13,8 @@ files in : https://github.com/PRouzeau/Bowden-extruder-direct-drive
 * Program license GPL2 & 3
 * Documentation licence : CC BY-SA
 
+This application run on OpenSCAD 2021.01. Development versions Snapshots/Nightly shall NOT be used.
+
 It is for filament 1.75mm and guide filament as close as possible to the hobbed insert, allowing easy change of filament while printing.
 This may help somewhat with flexible filament, taking into account the difficulties associated with bowden tube.
 
